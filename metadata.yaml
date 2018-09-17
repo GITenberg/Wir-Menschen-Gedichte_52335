@@ -1,0 +1,25 @@
+_repo: Wir-Menschen-Gedichte_52335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartmann, Walther Georg
+    birthdate: 1892
+    deathdate: 1970
+    gutenberg_agent_id: '46799'
+    url: http://www.gutenberg.org/2009/agents/46799
+    wikipedia: https://de.wikipedia.org/wiki/Walther_Georg_Hartmann
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52335'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Wir Menschen: Gedichte'
+url: http://www.gutenberg.org/ebooks/52335
