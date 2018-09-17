@@ -1,5 +1,8 @@
 _repo: Wir-Menschen-Gedichte_52335
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52335-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Hartmann, Walther Georg
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46799
     wikipedia: https://de.wikipedia.org/wiki/Walther_Georg_Hartmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52335#Wir-Menschen-Gedichte
 gutenberg_issued: '2016-06-15'
 gutenberg_type: Text
 identifiers:
